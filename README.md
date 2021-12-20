@@ -7,4 +7,4 @@ Enjoy pokoknya :)
 https://deteksi-objek.vercel.app/
 
 ## My Social Media
-Instagram: [@vanjov_] https://www.instagram.com/vanjov_/
+[Instagram]https://www.instagram.com/vanjov_/
