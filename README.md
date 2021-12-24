@@ -6,5 +6,3 @@ Enjoy pokoknya :)
 ## Demo
 https://deteksi-objek.vercel.app/
 
-## My Social Media
-[Instagram](https://www.instagram.com/vanjov_/)
